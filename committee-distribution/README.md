@@ -33,7 +33,7 @@ The current membership of the committee is (listed alphabetically by first name)
 | Kubeflow Katib          | TBD  | -            | -      | -          | -        |
 | Kubeflow Notebooks      | TBD  | -            | -      | -          | -        |
 | Kubeflow Pipelines      | TBD  | -            | -      | -          | -        |
-| Kubeflow Spark Operator | TBD  | -            | -      | -          | -        |
+| Kubeflow Spark Operator | Vikas Saxena  | RAICS.AI            | [vikas-saxena02](https://github.com/vikas-saxena02)       | 07/17/2026          | 07/17/2027        |
 | Kubeflow Trainer        | TBD  | -            | -      | -          | -        |
 
 ## Meetings
